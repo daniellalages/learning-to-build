@@ -8,4 +8,4 @@ My first projects, exercises and discoveries while studying ADS.
 
   # Future Ideas
   - Moodfy: an app that creates playlists based on your mood.
-  - Calcify: a simple calculator app to solve everyday calculations.
+  
