@@ -7,5 +7,5 @@ My first projects, exercises and discoveries while studying ADS.
 - Explore technology
 
   # Future Ideas
-  - Moodfy: an app that creates playlists based on your mood.
+ 
   
